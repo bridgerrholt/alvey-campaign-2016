@@ -1,0 +1,26 @@
+body {
+	background-color: #fff;
+}
+
+.main-heading {
+	text-align: center;
+	font-size: 80px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+}
+
+.regular img {
+	width: 200px;
+	height: 100px;
+
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.regular {
+	display: block;
+}
+
+.active {
+	opacity: 0.7;
+}
